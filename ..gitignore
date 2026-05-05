@@ -1,0 +1,14 @@
+*.joblib
+*.pkl
+*.h5
+*.keras
+*.zip
+*.tar
+*.gz
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/
+datasets/
+models/
+kaggle/
