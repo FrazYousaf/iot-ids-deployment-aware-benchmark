@@ -1,3 +1,6 @@
+**Note: This directory contains the base benchmarking scripts used during development. Dataset-specific configurations and the exact implementations corresponding to the paper results are provided in the notebooks under notebooks/.**
+
+
 # IoT IDS Benchmark: Accuracy + Deployment-Aware Evaluation
 
 This package contains Kaggle-ready Python scripts for fairly comparing ML and DL models on the same IoT IDS dataset.
