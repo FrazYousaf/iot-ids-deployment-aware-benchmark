@@ -190,9 +190,6 @@ iot-ids-deployment-aware-benchmark/
 │   ├── 04-datasense-cic-iiot-2025.ipynb
 │   └── 05-merged-cic-idad-tabulariotattack-2024.ipynb
 │
-├── results/
-│
-├── figures/
 │
 ├── requirements.txt
 │
